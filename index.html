@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>城市天气</title>
+    <!-- 引入 echarts.js -->
+    <link href="theme.css" rel="stylesheet" type="text/css">
+    <script src="echarts.min.js"></script>
+</head>
+<body>
+    <div class="box">
+        <div id="wenzi" style="">
+            城市 <input class="city" type="text" placeholder="杭州">
+            <button id="check">查询</button>
+        </div>
+
+        <div class="mainPool">
+            <section id="map" class="show">
+                <img src="天气预报地图.png">
+                <p><strong>天气预报</strong> 输入您所在的城市查询天气情况</p>
+            </section>
+
+            <section id="main" class="" style="width:540px; height: 400px;">
+
+            </section>
+        </div>
+    </div>
+
+    <script src="weather.js"></script>
+
+</body>
+</html>
