@@ -1,0 +1,32 @@
+.box {
+    text-align: center;
+}
+.mainPool {
+    margin: 0 auto;
+    width: 600px;
+    height: 400px;
+    background-color: beige;
+    border-radius: 8px;
+}
+
+.hidden {
+    display: none;
+}
+#wenzi {
+    margin: 0 auto;
+    height: 30px;
+    width: 300px;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: lightsalmon;
+}
+button {
+    padding: 2 4 0 4;
+    font-size:12px;
+    height:23px;
+    background-color:#ece9d8;
+    border-width:1px;
+}
+button:hover {
+    background-color: yellow;
+}
