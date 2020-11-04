@@ -6,8 +6,8 @@
 效果演示
 
 图1
-![Image text](https://github.com/BigDannnnn/img-folder/blob/master/w1.png)
+![Image text](https://github.com/real-two-k/img-folder/blob/master/w1.png)
 
 图2
-![Image text](https://github.com/BigDannnnn/img-folder/blob/master/w2.png)
+![Image text](https://github.com/real-two-k/img-folder/blob/master/w2.png)
 
