@@ -1,4 +1,4 @@
-# BigDan-Echarts-Weather-Forecast
+# echarts-weather-forecast
 1. Use Echarts for data visualization
 2. Enter the city, click the button, trigger the event, and then ajax gets the corresponding data
 
