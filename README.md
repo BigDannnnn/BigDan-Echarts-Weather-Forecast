@@ -1,9 +1,8 @@
 # BigDan-Echarts-Weather-Forecast
-使用了 Echarts 做数据可视化
+1. Use Echarts for data visualization
+2. Enter the city, click the button, trigger the event, and then ajax gets the corresponding data
 
-输入城市，点击按钮，触发事件，ajax 获取相应数据
-
-效果演示
+Illustration
 
 图1
 ![Image text](https://github.com/real-two-k/img-folder/blob/master/w1.png)
